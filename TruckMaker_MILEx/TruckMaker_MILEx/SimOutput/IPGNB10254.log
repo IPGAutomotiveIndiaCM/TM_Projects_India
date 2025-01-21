@@ -1,0 +1,37 @@
+
+
+SYSTEM_START	-	IPGNB10254	IPGNB10254	2025-01-20 15:30:38
+
+
+SYSTEM_INFO	TruckMaker 13.0.1 - Truck_Generic #2	jetbrains@6be5821ad487 2024-01-30 13:18:59	(13.0.1 jetbrains@6be5821ad487 2024-01-30 13:11:23)
+SIM	1737367239	IPGNB10254			0	0	0
+SIM	1737367240	IPGNB10254	satyaprakash.gupta	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/TrafficJam_withCrash	0	50	121.736
+SIM	1737367307	IPGNB10254	satyaprakash.gupta	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/Highway_ExitAndReturn	0	165.002	2711.13
+
+
+SYSTEM_START	-	IPGNB10254	IPGNB10254	2025-01-21 12:05:25
+
+
+SYSTEM_INFO	Truck_Generic <insert.your.version.no> #1	satyaprakash.gupta@ipgnb10254 2025-01-21 12:03:27	(13.0.1 jetbrains@6be5821ad487 2024-01-30 13:11:23)
+SIM	1737441325	IPGNB10254			0	0	0
+SIM	1737441376	IPGNB10254	satyaprakash.gupta	Examples/BasicFunctions/Driver/BackAndForth	0	15.776	147.478
+SIM	1737441435	IPGNB10254	satyaprakash.gupta	Examples/BasicFunctions/Simulink/CountryRoad_ACC	0	35.959	1059.76
+SIM	1737441479	IPGNB10254	satyaprakash.gupta	Examples/BasicFunctions/Simulink/CountryRoad_ACC	0	57.487	1173.77
+SIM	1737441760	IPGNB10254	satyaprakash.gupta	CountryRoad_ACC	0	29.01	820.846
+SIM	1737441803	IPGNB10254	satyaprakash.gupta	CountryRoad_ACC	1	57.238	1082.21
+SIM	1737441971	IPGNB10254	satyaprakash.gupta	CountryRoad_ACC	0	254	2277.45
+SIM	1737442200	IPGNB10254	satyaprakash.gupta	CountryRoad_ACC	0	254	2277.45
+
+
+SYSTEM_START	-	IPGNB10254	IPGNB10254	2025-01-21 12:33:26
+
+
+SYSTEM_INFO	TruckMaker 13.0.1 - Truck_Generic #6	jetbrains@6be5821ad487 2024-01-30 13:19:57	(13.0.1 jetbrains@6be5821ad487 2024-01-30 13:11:23)
+SIM	1737443006	IPGNB10254	satyaprakash.gupta	CountryRoad_ACC	0	91.657	1403.04
+
+
+SYSTEM_START	-	IPGNB10254	IPGNB10254	2025-01-21 12:34:16
+
+
+SYSTEM_INFO	TruckMaker 13.0.1 - Truck_Generic #6	jetbrains@6be5821ad487 2024-01-30 13:19:57	(13.0.1 jetbrains@6be5821ad487 2024-01-30 13:11:23)
+SIM	1737443056	IPGNB10254	satyaprakash.gupta	CountryRoad_ACC	0	63.61	1213.23

@@ -1,0 +1,20 @@
+APPLICATION	TruckMaker 13.0.1 - Truck_Generic #6 (win64-13.0.1)
+COMPILED	jetbrains@6be5821ad487 2024-01-30 13:19:57
+ 
+		I/O Configuration: default
+SIM_START	CountryRoad_ACC	2025-01-21 12:33:26
+TIME	0.000
+SIMULATE	CountryRoad_ACC
+
+TIME	91.660
+SIM_END		CountryRoad_ACC	91.657s	1403.04m
+APPLICATION	TruckMaker 13.0.1 - Truck_Generic #6 (win64-13.0.1)
+COMPILED	jetbrains@6be5821ad487 2024-01-30 13:19:57
+ 
+		I/O Configuration: default
+SIM_START	CountryRoad_ACC	2025-01-21 12:34:16
+TIME	0.000
+SIMULATE	CountryRoad_ACC
+
+TIME	63.613
+SIM_END		CountryRoad_ACC	63.61s	1213.23m

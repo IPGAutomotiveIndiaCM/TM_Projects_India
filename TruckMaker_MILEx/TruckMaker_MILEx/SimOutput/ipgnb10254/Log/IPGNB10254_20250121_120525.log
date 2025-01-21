@@ -1,0 +1,61 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #1 (win64-13.0.1)
+COMPILED	satyaprakash.gupta@ipgnb10254 2025-01-21 12:03:27
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-01-21 12:05:25
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:05:25
+TIME	5.023
+SIM_START	Examples/BasicFunctions/Driver/BackAndForth	2025-01-21 12:06:16
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/BackAndForth
+
+TIME	15.779
+SIM_END		Examples/BasicFunctions/Driver/BackAndForth	15.776s	147.478m
+TIME	20.052
+SIM_START	Examples/BasicFunctions/Simulink/CountryRoad_ACC	2025-01-21 12:07:15
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Simulink/CountryRoad_ACC
+
+TIME	15.233
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'Simulate')
+TIME	35.962
+SIM_END		Examples/BasicFunctions/Simulink/CountryRoad_ACC	35.959s	1059.76m
+SIM_START	Examples/BasicFunctions/Simulink/CountryRoad_ACC	2025-01-21 12:07:59
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Simulink/CountryRoad_ACC
+
+TIME	57.490
+SIM_END		Examples/BasicFunctions/Simulink/CountryRoad_ACC	57.487s	1173.77m
+TIME	79.718
+SIM_START	CountryRoad_ACC	2025-01-21 12:12:40
+TIME	0.000
+SIMULATE	CountryRoad_ACC
+
+TIME	29.013
+SIM_END		CountryRoad_ACC	29.01s	820.846m
+SIM_START	CountryRoad_ACC	2025-01-21 12:13:23
+TIME	0.000
+SIMULATE	CountryRoad_ACC
+
+TIME	57.237
+ERROR		Roll angle too high (-80.04 deg)
+SIM_ABORT	CountryRoad_ACC	57.238s	1082.21m
+TIME	68.183
+SIM_START	CountryRoad_ACC	2025-01-21 12:16:11
+TIME	0.000
+SIMULATE	CountryRoad_ACC
+
+TIME	254.008
+SIM_END		CountryRoad_ACC	254s	2277.45m
+TIME	265.009
+SIM_START	CountryRoad_ACC	2025-01-21 12:20:00
+TIME	0.000
+SIMULATE	CountryRoad_ACC
+
+TIME	254.008
+SIM_END		CountryRoad_ACC	254s	2277.45m
+TIME	316.487
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,51 @@
+
+
+SYSTEM_START	-	ipgnb10254	Mon Jan 20 15:29:45 2025
+
+
+SYSTEM_INFO	Movie NX pro 13.0.1 2024-01-29
+[Warning] [Engine] 
+                   Xml::printUnusedData(): Unused in file:"configs/default.user"
+[Warning] [Engine] 	Unused in node:"materials_reload_event"	data:"1"
+[Warning] [Engine] 	Unused in node:"render_show_lighting_mode"	data:"0"
+[Warning] [Engine] 
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+ApoConnection: Disconnecting...
+APO: Successfully connected to: TruckMaker 13.0.1 - Truck_Generic @ IPGNB10254(192.168.29.121):10088
+Loading Test Run from path C:/IPG/carmaker/win64-13.0.1/Data/TestRun/ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/TrafficJam_withCrash
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/SpeedLimit.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/TurnAheadL.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/DirectionBoardR.dds" is not power of two size 100x100
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/DirectionBoardL.dds" is not power of two size 100x100
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/TurnAheadR.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/GiveWay.dds" is not power of two size 250x216
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/BeaconR.dds" is not power of two size 100x400
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/StraightOrLeft.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/StraightOrRight.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/RightOfWay.dds" is not power of two size 250x216
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/EndOfLimitations.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/NoEntry.dds" is not power of two size 250x250
+Loading Test Run from path C:/IPG/carmaker/win64-13.0.1/Data/TestRun/ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/Highway_ExitAndReturn
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/SpeedLimit.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/DirectionBoardR.dds" is not power of two size 100x100
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/DirectionBoardL.dds" is not power of two size 100x100
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/GiveWay.dds" is not power of two size 250x216
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/BeaconR.dds" is not power of two size 100x400
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/NoEntry.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/TurnAheadL.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/TurnAheadR.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/StraightOrLeft.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/StraightOrRight.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/RightOfWay.dds" is not power of two size 250x216
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/EndOfLimitations.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/DirectionBoardL.dds" is not power of two size 100x100
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/StraightOrRight.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/TurnAheadL.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/TurnAheadR.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/StraightOrLeft.dds" is not power of two size 250x250
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/RightOfWay.dds" is not power of two size 250x216
+[Warning] [Engine] Texture "core_nx/road/trafficsigns/textures/DEU/EndOfLimitations.dds" is not power of two size 250x250
+ApoConnection: Disconnecting...
+[ERROR] [Engine] D3D11Ext::shutdown(): 11 unreleased references

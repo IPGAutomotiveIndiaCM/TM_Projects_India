@@ -1,0 +1,23 @@
+APPLICATION	TruckMaker 13.0.1 - Truck_Generic #2 (win64-13.0.1)
+COMPILED	jetbrains@6be5821ad487 2024-01-30 13:18:59
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-01-20 15:30:39
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:30:39
+SIM_START	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/TrafficJam_withCrash	2025-01-20 15:30:40
+TIME	0.000
+SIMULATE	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/TrafficJam_withCrash
+
+TIME	50.003
+SIM_END		ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/TrafficJam_withCrash	50s	121.736m
+SIM_START	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/Highway_ExitAndReturn	2025-01-20 15:31:47
+TIME	0.000
+SIMULATE	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/Highway_ExitAndReturn
+
+TIME	165.010
+SIM_END		ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/Highway_ExitAndReturn	165.002s	2711.13m
+TIME	191.371
+SHUTDOWN	CarMaker quick shutdown initiated
+
