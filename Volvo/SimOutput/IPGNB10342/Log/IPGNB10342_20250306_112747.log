@@ -1,0 +1,358 @@
+APPLICATION	TruckMaker 14.0 - Truck_Generic #2 (win64-14.0)
+COMPILED	jetbrains@b5882e3d7d42 2024-11-26 13:07:28
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-06 11:27:47
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:27:48
+SIM_START	TempScenario(Volvo)	2025-03-06 11:27:49
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	334.743
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 334.743000, ErrInd = 102). (id=200)
+TIME	337.539
+ERROR		Vehicle leaves road at about x=-0.00107877, y=-0.613504 TireNo=4
+ERROR		Vehicle leaves road at about x=0.00169897, y=-0.987494 TireNo=4
+ERROR		Vehicle leaves road at about x=0.0226309, y=-2.88737 TireNo=5
+ERROR		Vehicle leaves road at about x=0.0176097, y=-2.51341 TireNo=5
+SIM_ABORT	TempScenario(Volvo)	337.54s	404.842m
+SIM_START	TempScenario(Volvo)	2025-03-06 11:29:50
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	90.765
+SIM_END		TempScenario(Volvo)	90.762s	0.190694m
+SIM_START	TempScenario(Volvo)	2025-03-06 11:30:22
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	358.872
+SIM_END		TempScenario(Volvo)	358.87s	599.402m
+SIM_START	TempScenario(Volvo)	2025-03-06 11:32:29
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	981.069
+SIM_END		TempScenario(Volvo)	981.066s	1114.74m
+TIME	1008.586
+SIM_START	TempScenario(Volvo)	2025-03-06 11:42:32
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	413.827
+SIM_END		TempScenario(Volvo)	413.824s	827.24m
+TIME	449.040
+SIM_START	TempScenario(Volvo)	2025-03-06 11:50:43
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	162.835
+SIM_END		TempScenario(Volvo)	162.833s	468.777m
+TIME	175.027
+SIM_START	TempScenario(Volvo)	2025-03-06 11:53:41
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	360.480
+SIM_END		TempScenario(Volvo)	360.477s	254.919m
+TIME	370.568
+SIM_START	TempScenario(Volvo)	2025-03-06 11:57:23
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	292.395
+SIM_END		TempScenario(Volvo)	292.392s	215.588m
+SIM_START	TempScenario(Volvo)	2025-03-06 11:59:04
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	254.492
+SIM_END		TempScenario(Volvo)	254.489s	437.485m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:00:44
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	255.363
+SIM_END		TempScenario(Volvo)	255.361s	262.185m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:02:22
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	286.484
+SIM_END		TempScenario(Volvo)	286.481s	654.781m
+TIME	291.726
+SIM_START	TempScenario(Volvo)	2025-03-06 12:04:19
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	397.957
+SIM_END		TempScenario(Volvo)	397.955s	165.63m
+TIME	401.118
+SIM_START	TempScenario(Volvo)	2025-03-06 12:06:12
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	251.329
+SIM_END		TempScenario(Volvo)	251.326s	218.79m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:07:12
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	128.556
+SIM_END		TempScenario(Volvo)	128.553s	258.657m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:07:54
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	246.674
+SIM_END		TempScenario(Volvo)	246.672s	311.707m
+TIME	250.740
+SIM_START	TempScenario(Volvo)	2025-03-06 12:09:25
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	86.863
+SIM_END		TempScenario(Volvo)	86.86s	186.649m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:09:45
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	111.287
+SIM_END		TempScenario(Volvo)	111.285s	410.115m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:10:13
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	89.718
+SIM_END		TempScenario(Volvo)	89.716s	214.515m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:10:44
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	110.961
+SIM_END		TempScenario(Volvo)	110.958s	410.521m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:11:15
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	149.461
+SIM_END		TempScenario(Volvo)	149.459s	283.728m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:11:55
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	109.889
+SIM_END		TempScenario(Volvo)	109.886s	352.142m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:12:29
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	266.083
+SIM_END		TempScenario(Volvo)	266.081s	443.991m
+TIME	270.144
+SIM_START	TempScenario(Volvo)	2025-03-06 12:14:04
+TIME	270.144
+ERROR		Test Run file doesn't exist, file '.tmp_IPGNB10342_Rahul Vishwanatha.1'
+TIME	0.004
+SIM_ABORT	TempScenario(Volvo)	0s	443.991m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:14:10
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	303.780
+SIM_END		TempScenario(Volvo)	303.777s	481.011m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:15:14
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	113.296
+SIM_END		TempScenario(Volvo)	113.294s	411.07m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:15:49
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	123.758
+SIM_END		TempScenario(Volvo)	123.755s	246.035m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:16:22
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	110.497
+SIM_END		TempScenario(Volvo)	110.494s	368.67m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:16:55
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	113.296
+SIM_END		TempScenario(Volvo)	113.294s	411.07m
+TIME	123.269
+SIM_START	TempScenario(Volvo)	2025-03-06 12:18:59
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	113.296
+SIM_END		TempScenario(Volvo)	113.294s	411.07m
+TIME	119.977
+SIM_START	TempScenario(Volvo)	2025-03-06 12:20:30
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	113.297
+SIM_END		TempScenario(Volvo)	113.294s	411.07m
+TIME	121.159
+SIM_START	TempScenario(Volvo)	2025-03-06 12:22:12
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	195.828
+SIM_END		TempScenario(Volvo)	195.825s	343.281m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:22:54
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	301.837
+SIM_END		TempScenario(Volvo)	301.835s	658.887m
+TIME	303.865
+SIM_START	TempScenario(Volvo)	2025-03-06 12:24:16
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	868.808
+SIM_END		TempScenario(Volvo)	868.806s	588.343m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:27:12
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.314
+SIM_END		TempScenario(Volvo)	24.31s	60.4176m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:27:34
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.513
+SIM_END		TempScenario(Volvo)	24.51s	410.848m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:27:47
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.513
+SIM_END		TempScenario(Volvo)	24.51s	410.848m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:28:19
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.018
+SIM_END		TempScenario(Volvo)	24.016s	410.841m
+TIME	33.026
+SIM_START	TempScenario(Volvo)	2025-03-06 12:30:14
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.512
+SIM_END		TempScenario(Volvo)	24.51s	410.848m
+TIME	35.372
+SIM_START	TempScenario(Volvo)	2025-03-06 12:32:29
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.512
+SIM_END		TempScenario(Volvo)	24.51s	410.848m
+TIME	26.989
+SIM_START	TempScenario(Volvo)	2025-03-06 12:33:19
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	24.513
+SIM_END		TempScenario(Volvo)	24.51s	410.848m
+TIME	27.558
+SIM_START	TempScenario(Volvo)	2025-03-06 12:34:15
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	28.506
+SIM_END		TempScenario(Volvo)	28.503s	417.879m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:34:47
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	253.288
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 253.288000, ErrInd = 102). (id=200)
+TIME	255.966
+ERROR		Vehicle leaves road at about x=0.00943283, y=-0.976634 TireNo=4
+ERROR		Vehicle leaves road at about x=0.0294138, y=-2.87653 TireNo=5
+ERROR		Vehicle leaves road at about x=0.0245794, y=-2.50256 TireNo=5
+SIM_ABORT	TempScenario(Volvo)	255.967s	1531.62m
+TIME	259.911
+SIM_START	TempScenario(Volvo)	2025-03-06 12:39:44
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	171.447
+SIM_END		TempScenario(Volvo)	171.444s	820.494m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:42:37
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	66.833
+SIM_END		TempScenario(Volvo)	66.83s	436.362m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:43:47
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	37.234
+SIM_END		TempScenario(Volvo)	37.231s	247.271m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:44:35
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	44.429
+SIM_END		TempScenario(Volvo)	44.427s	422.477m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:45:35
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	67.526
+SIM_END		TempScenario(Volvo)	67.523s	413.048m
+SIM_START	TempScenario(Volvo)	2025-03-06 12:46:45
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	44.429
+SIM_END		TempScenario(Volvo)	44.427s	422.477m
+TIME	72.130
+SIM_START	TempScenario(Volvo)	2025-03-06 12:52:08
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	44.429
+SIM_END		TempScenario(Volvo)	44.427s	422.477m
+TIME	124.333
+SIM_START	TempScenario(Volvo)	2025-03-06 14:09:50
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	61.678
+SIM_END		TempScenario(Volvo)	61.675s	362.057m
+SIM_START	TempScenario(Volvo)	2025-03-06 14:11:05
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	41.113
+SIM_END		TempScenario(Volvo)	41.11s	286.505m
+SIM_START	TempScenario(Volvo)	2025-03-06 14:11:57
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	51.090
+SIM_END		TempScenario(Volvo)	51.087s	343.102m
+SIM_START	TempScenario(Volvo)	2025-03-06 14:12:50
+TIME	0.000
+SIMULATE	TempScenario(Volvo)
+
+TIME	44.429
+SIM_END		TempScenario(Volvo)	44.427s	422.477m
+TIME	107.229
+SHUTDOWN	CarMaker quick shutdown initiated
+
