@@ -1,0 +1,27 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #14 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-13 12:26:46
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-13 12:26:59
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:26:59
+SIM_START	LKAS_C_0.3	2025-03-13 12:27:02
+TIME	0.080
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'StartWaitAnim')
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	23.487
+ERROR		Vehicle leaves road at about x=84.4801, y=5.20941 TireNo=0
+SIM_ABORT	LKAS_C_0.3	23.488s	79.1093m
+TIME	28.290
+SIM_START	LKAS_C_0.3	2025-03-13 12:28:17
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	5.803
+ERROR		Vehicle leaves road at about x=20.5574, y=6.56655 TireNo=0
+SIM_ABORT	LKAS_C_0.3	5.804s	13.951m
+SHUTDOWN	CarMaker quick shutdown initiated
+

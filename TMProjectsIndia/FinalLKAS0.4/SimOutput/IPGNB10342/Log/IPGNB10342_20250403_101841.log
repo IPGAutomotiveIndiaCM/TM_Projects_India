@@ -1,0 +1,16 @@
+APPLICATION	CarMaker 14.0 - Car_Generic #4 (win64-14.0)
+COMPILED	jetbrains@b5882e3d7d42 2024-11-26 13:09:41
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-04-03 10:18:41
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:18:42
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 10:18:43
+TIME	0.147
+ERROR		Car: Unsupported file format (got 'CarMaker-Truck 14', expected 'CarMaker-Car')
+TIME	0.078
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	0s	0m
+TIME	8.689
+SHUTDOWN	CarMaker quick shutdown initiated
+

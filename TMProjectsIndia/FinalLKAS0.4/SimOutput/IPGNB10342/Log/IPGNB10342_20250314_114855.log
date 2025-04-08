@@ -1,0 +1,16 @@
+APPLICATION	TruckMaker 14.0 - Truck_Generic #2 (win64-14.0)
+COMPILED	jetbrains@b5882e3d7d42 2024-11-26 13:07:28
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 11:48:55
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:48:55
+SIM_START	LKAS_C_0.3	2025-03-14 11:48:59
+TIME	0.329
+ERROR		VehicleControl: Unknown kind 'LKAS', version 1
+TIME	0.028
+SIM_ABORT	LKAS_C_0.3	0s	0m
+TIME	67.265
+SHUTDOWN	CarMaker quick shutdown initiated
+

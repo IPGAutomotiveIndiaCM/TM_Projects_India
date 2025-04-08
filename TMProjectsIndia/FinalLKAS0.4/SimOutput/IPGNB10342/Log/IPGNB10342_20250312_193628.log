@@ -1,0 +1,17 @@
+APPLICATION	TruckMaker 14.0 - Truck_Generic #2 (win64-14.0)
+COMPILED	jetbrains@b5882e3d7d42 2024-11-26 13:07:28
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-12 19:36:28
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:36:29
+TIME	2.084
+SIM_START	LKAS_C_0.3	2025-03-12 19:36:50
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	11.395
+SIM_END		LKAS_C_0.3	11.392s	34.521m
+SHUTDOWN	CarMaker quick shutdown initiated
+

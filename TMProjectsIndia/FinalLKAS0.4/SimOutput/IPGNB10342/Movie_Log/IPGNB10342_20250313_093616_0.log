@@ -1,0 +1,10 @@
+2025-03-13 11:45:18.904  general      EROR Missing Quantities!
+
+Needed for animation, but not provided:
+Sensor.Road.Vhcl.VehSensor_0.Route.tx, Sensor.Road.Vhcl.VehSensor_0.Route.ty, Sensor.Road.Vhcl.VehSensor_0.Route.tz
+2025-03-13 12:22:28.116  general      EROR could not read: ''
+2025-03-13 12:22:28.118  general      EROR Testrun missing in '.tmp_IPGNB10342_Rahul Vishwanatha.0'
+2025-03-13 12:22:28.118  general      EROR Testrun missing in '.tmp_IPGNB10342_Rahul Vishwanatha.0'
+2025-03-13 12:27:03.494  general      EROR could not read: ''
+2025-03-13 12:27:03.496  general      EROR Testrun missing in '.tmp_IPGNB10342_Rahul Vishwanatha.0'
+2025-03-13 12:27:03.505  general      EROR Testrun missing in '.tmp_IPGNB10342_Rahul Vishwanatha.0'

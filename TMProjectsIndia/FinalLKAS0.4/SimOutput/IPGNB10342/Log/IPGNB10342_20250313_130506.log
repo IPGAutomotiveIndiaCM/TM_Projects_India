@@ -1,0 +1,27 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #28 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-13 13:04:45
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-13 13:05:06
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:05:07
+SIM_START	LKAS_C_0.3	2025-03-13 13:05:14
+TIME	0.659
+ERROR		Test Run file doesn't exist, file '.tmp_IPGNB10342_Rahul Vishwanatha.0'
+TIME	0.002
+SIM_ABORT	LKAS_C_0.3	0s	0m
+SIM_START	LKAS_C_0.3	2025-03-13 13:05:16
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	11.704
+SIM_END		LKAS_C_0.3	11.701s	35.6584m
+SIM_START	LKAS_C_0.3	2025-03-13 13:05:31
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	25.308
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_END		LKAS_C_0.3	25.309s	85.7615m

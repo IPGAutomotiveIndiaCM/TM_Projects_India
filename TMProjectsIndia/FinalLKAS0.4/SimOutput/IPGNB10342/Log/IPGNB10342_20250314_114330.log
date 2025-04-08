@@ -1,0 +1,20 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #60 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-14 11:43:08
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 11:43:30
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:43:31
+SIM_START	LKAS_C_0.3	2025-03-14 11:43:33
+TIME	0.002
+ERROR		VehicleControl GenLatCtrl: vehicle width must be 0...2.5, check Vehicle Outer Skin y data
+SIM_ABORT	LKAS_C_0.3	0s	0m
+SIM_START	LKAS_C_0.3	2025-03-14 11:43:51
+TIME	1.806
+ERROR		No entry 'MyVC.GasFac', file 'Data/Vehicle/.tmp_IPGNB10342_Rahul Vishwanatha.0'
+TIME	0.025
+SIM_ABORT	LKAS_C_0.3	0s	0m
+TIME	22.150
+SHUTDOWN	CarMaker quick shutdown initiated
+

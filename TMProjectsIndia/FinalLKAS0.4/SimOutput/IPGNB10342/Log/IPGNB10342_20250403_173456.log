@@ -1,0 +1,48 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #150 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-04-03 17:34:53
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-04-03 17:34:56
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:34:56
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 17:35:04
+TIME	0.772
+ERROR		VehicleControl GenLatCtrl: no LineSensor found with the name 'Vhcl.LN00'
+TIME	0.071
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	0s	0m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 17:35:18
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	66.979
+ERROR		Vehicle leaves road at about x=283.246, y=-65.6263 TireNo=0
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	66.98s	245.013m
+TIME	76.269
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 17:37:15
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	101.565
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	101.562s	374.952m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 17:38:05
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	40.973
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	40.97s	147.124m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 17:38:22
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	23.248
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	23.245s	79.555m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 17:38:32
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	34.055
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	34.052s	119.012m
+TIME	39.233
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,4 @@
+2025-04-03 16:35:42.961  general      EROR Missing Quantities!
+
+Needed for animation, but not provided:
+Sensor.Road.Vhcl.VehSensor_1.Route.tx, Sensor.Road.Vhcl.VehSensor_1.Route.ty, Sensor.Road.Vhcl.VehSensor_1.Route.tz
