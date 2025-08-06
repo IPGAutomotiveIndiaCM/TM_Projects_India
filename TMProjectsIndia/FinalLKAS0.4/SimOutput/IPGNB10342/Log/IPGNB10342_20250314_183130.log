@@ -1,0 +1,146 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #117 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-14 16:48:24
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 18:31:30
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:31:31
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:31:38
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	11.800
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	11.801s	37.4323m
+TIME	15.736
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:32:30
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	34.887
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	34.884s	124.106m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:33:08
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	39.989
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	39.986s	143.126m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:33:52
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	31.352
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	31.349s	110.673m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:34:28
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	10.119
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	10.116s	30.767m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:34:48
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.002
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	161.018m
+TIME	58.833
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:37:52
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	26.653
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	26.65s	92.0682m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:38:22
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.002
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	161.018m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:39:12
+TIME	0.002
+ERROR		Man 0, Step 1: PhaseOffset and Smooth not possible in combination (Sine)
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	0s	161.018m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:39:28
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	7.600
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	7.601s	21.5738m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:39:44
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	21.879
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	21.876s	75.1574m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:40:09
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	27.537
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	27.534s	96.4171m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:40:39
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	10.400
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	10.401s	32.0961m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:40:55
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	24.411
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	24.408s	84.6713m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:41:23
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	42.347
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	42.344s	152.069m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:42:08
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	22.301
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	22.298s	76.7459m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:42:34
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	5.710
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	5.707s	14.4022m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:42:43
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	18.625
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	18.622s	54.1487m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:43:05
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	17.995
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	17.992s	52.5491m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:43:26
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	13.189
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	13.186s	42.5087m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:43:43
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	27.063
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	27.06s	94.6391m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-14 18:44:13
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.003
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	162.049m
+TIME	49.104
+SHUTDOWN	CarMaker quick shutdown initiated
+

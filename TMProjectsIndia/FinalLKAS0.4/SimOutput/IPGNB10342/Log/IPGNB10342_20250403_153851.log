@@ -1,0 +1,38 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #127 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-04-03 15:38:11
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-04-03 15:38:51
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:38:52
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 15:38:57
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	57.116
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	57.114s	207.522m
+TIME	59.927
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 15:39:55
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	11.423
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	11.42s	35.9243m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 15:40:10
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	39.317
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	39.314s	140.642m
+TIME	41.651
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 15:40:54
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	72.256
+ERROR		Vehicle leaves road at about x=305.335, y=-88.5211 TireNo=0
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	72.257s	264.465m
+TIME	108.683
+SHUTDOWN	CarMaker quick shutdown initiated
+

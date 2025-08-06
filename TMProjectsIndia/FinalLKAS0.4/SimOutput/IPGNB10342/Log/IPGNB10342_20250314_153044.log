@@ -1,0 +1,24 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #110 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-14 15:30:28
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 15:30:44
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:30:44
+SIM_START	LKAS_C_0.3	2025-03-14 15:30:49
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	30.342
+SIM_END		LKAS_C_0.3	60.939s	395.642m
+SIM_START	LKAS_C_0.3	2025-03-14 15:31:26
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	9.688
+ERROR		Vehicle leaves road at about x=104.359, y=-9.21989 TireNo=1
+SIM_ABORT	LKAS_C_0.3	11.467s	95.8634m
+TIME	58.846
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,16 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = GUI-Config 14.0
+TM.Exe = src_tm/TruckMaker.win64.exe
+TM.Args =
+TM.Exe.History:
+	src_tm/TruckMaker.win64.exe
+	TruckMaker.win64.exe
+TM.Args.History:
+	""
+GPUParameters.FName =
+CM.Exe = CarMaker.win64.exe
+CM.Args =
+CM.Exe.History:
+	CarMaker.win64.exe
+CM.Args.History:
+	""

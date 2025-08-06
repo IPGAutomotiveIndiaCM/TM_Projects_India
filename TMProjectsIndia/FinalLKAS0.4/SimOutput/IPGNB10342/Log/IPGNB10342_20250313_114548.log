@@ -1,0 +1,11 @@
+APPLICATION	TruckMaker 14.0 - Truck_Generic #2 (win64-14.0)
+COMPILED	jetbrains@b5882e3d7d42 2024-11-26 13:07:28
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-13 11:45:48
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:45:48
+		DVA read: Unknown quantity 'Sensor.Road.Vhcl.VehSensor_0.Lane.OnRight.tMidLane'
+SHUTDOWN	CarMaker quick shutdown initiated
+

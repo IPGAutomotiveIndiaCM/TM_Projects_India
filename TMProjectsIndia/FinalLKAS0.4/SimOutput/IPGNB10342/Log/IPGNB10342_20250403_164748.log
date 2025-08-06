@@ -1,0 +1,28 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #136 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-04-03 16:47:44
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-04-03 16:47:48
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:47:49
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 16:47:54
+TIME	0.487
+ERROR		VehicleControl GenLatCtrl: no LineSensor found with the name 'Vhcl.LN00'
+TIME	0.025
+SIM_ABORT	LKAS_C_Using_sensor_data_maneuvers	0s	0m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 16:48:09
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	75.003
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	75s	275.429m
+TIME	77.162
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-04-03 16:49:09
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	19.577
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	19.574s	66.7813m
+SHUTDOWN	CarMaker quick shutdown initiated
+

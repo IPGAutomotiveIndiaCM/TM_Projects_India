@@ -1,0 +1,16 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #65 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-14 12:00:08
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 12:00:16
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:00:17
+SIM_START	LKAS_C_0.3	2025-03-14 12:00:20
+TIME	0.268
+ERROR		VehicleControl: Unknown kind 'LKAS', version 1
+TIME	0.028
+SIM_ABORT	LKAS_C_0.3	0s	0m
+TIME	28.417
+SHUTDOWN	CarMaker quick shutdown initiated
+

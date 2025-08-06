@@ -1,0 +1,44 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #2 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-12 13:13:45
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-12 14:02:48
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:02:48
+SIM_START	LKAS_C_0.3	2025-03-12 14:02:53
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	40.002
+SIM_END		LKAS_C_0.3	40s	139.853m
+TIME	111.209
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2025-03-12 14:15:06
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+TIME	7.802
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	7.799s	49.441m
+SIM_START	LKAS_C_0.3	2025-03-12 14:15:25
+TIME	8.751
+ERROR		VehicleControl GenLatCtrl: vehicle width must be 0...2.5, check Vehicle Outer Skin y data
+TIME	0.054
+SIM_ABORT	LKAS_C_0.3	0s	49.441m
+TIME	15.546
+SIM_START	LKAS_C_0.3	2025-03-12 14:18:00
+TIME	15.546
+ERROR		VehicleControl GenLatCtrl: vehicle width must be 0...2.5, check Vehicle Outer Skin y data
+TIME	0.025
+SIM_ABORT	LKAS_C_0.3	0s	0m
+SIM_START	LKAS_C_0.3	2025-03-12 14:18:08
+TIME	0.828
+ERROR		VehicleControl GenLatCtrl: vehicle width must be 0...2.5, check Vehicle Outer Skin y data
+TIME	0.053
+SIM_ABORT	LKAS_C_0.3	0s	0m
+SIM_START	LKAS_C_0.3	2025-03-12 14:18:17
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+SIM_END		LKAS_C_0.3	1.007s	0.000462024m
+SHUTDOWN	CarMaker quick shutdown initiated
+

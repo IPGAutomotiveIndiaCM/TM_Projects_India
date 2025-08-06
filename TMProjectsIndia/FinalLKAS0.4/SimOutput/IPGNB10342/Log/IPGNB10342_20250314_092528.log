@@ -1,0 +1,15 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #52 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-13 18:43:26
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 09:25:28
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:25:29
+SIM_START	LKAS_C_0.3	2025-03-14 09:25:29
+TIME	0.002
+ERROR		No entry 'MyVC.GasFac', file 'Data/Vehicle/.tmp__Rahul Vishwanatha.0'
+SIM_ABORT	LKAS_C_0.3	0s	0m
+TIME	3.110
+SHUTDOWN	CarMaker quick shutdown initiated
+

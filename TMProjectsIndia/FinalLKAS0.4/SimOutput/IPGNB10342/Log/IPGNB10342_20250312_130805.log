@@ -1,0 +1,22 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #1 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-12 13:04:27
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-12 13:08:05
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:08:05
+SIM_START	LKAS_C_0.3	2025-03-12 13:08:25
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	30.040
+SIM_END		LKAS_C_0.3	30.037s	103.168m
+SIM_START	LKAS_C_0.3	2025-03-12 13:09:09
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	14.166
+SIM_END		LKAS_C_0.3	14.163s	44.7217m
+SHUTDOWN	CarMaker quick shutdown initiated
+

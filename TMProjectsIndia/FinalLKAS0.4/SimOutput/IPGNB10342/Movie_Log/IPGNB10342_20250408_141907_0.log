@@ -1,0 +1,21 @@
+2025-04-08 14:19:16.882  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.assetinfo
+2025-04-08 14:19:16.883  general      EROR Could not open file  for reading
+2025-04-08 14:19:16.883  general      EROR Can't load  vehicle geometry '3D/Vehicles/ExampleCar.assetinfo':
+
+file does not exist
+2025-04-08 14:19:20.354  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.Cab.assetinfo
+2025-04-08 14:19:20.354  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.Plf.assetinfo
+2025-04-08 14:20:45.669  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.assetinfo
+2025-04-08 14:20:45.669  general      EROR Could not open file  for reading
+2025-04-08 14:20:45.670  general      EROR Can't load  vehicle geometry '3D/Vehicles/ExampleCar.assetinfo':
+
+file does not exist
+2025-04-08 14:20:47.136  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.Cab.assetinfo
+2025-04-08 14:20:47.136  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.Plf.assetinfo
+2025-04-08 14:21:27.982  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.assetinfo
+2025-04-08 14:21:27.982  general      EROR Could not open file  for reading
+2025-04-08 14:21:27.982  general      EROR Can't load  vehicle geometry '3D/Vehicles/ExampleCar.assetinfo':
+
+file does not exist
+2025-04-08 14:21:29.887  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.Cab.assetinfo
+2025-04-08 14:21:29.888  general      WARN Could not load a fallback for 3D/Vehicles/ExampleCar.Plf.assetinfo

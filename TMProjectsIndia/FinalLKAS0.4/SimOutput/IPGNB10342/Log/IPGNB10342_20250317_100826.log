@@ -1,0 +1,43 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #119 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-17 10:07:55
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-17 10:08:26
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:08:27
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-17 10:08:30
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	15.512
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	15.509s	51.2368m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-17 10:08:56
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	18.597
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	18.594s	62.8283m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-17 10:09:17
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	19.543
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	19.54s	66.3828m
+TIME	73.709
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-17 10:18:40
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.002
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	162.048m
+TIME	118.858
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-17 10:31:45
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	14.433
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	14.43s	47.1793m
+TIME	2943.012
+SHUTDOWN	CarMaker quick shutdown initiated
+

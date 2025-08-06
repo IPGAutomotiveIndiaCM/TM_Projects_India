@@ -1,0 +1,69 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #119 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-17 10:07:55
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-24 17:09:15
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:09:16
+SIM_START	LKAS_C_0.3	2025-03-24 17:09:17
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	25.331
+SIM_END		LKAS_C_0.3	25.329s	395.687m
+SIM_START	LKAS_C_0.3	2025-03-24 17:09:31
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	29.404
+SIM_END		LKAS_C_0.3	29.402s	395.644m
+TIME	32.593
+SIM_START	LKAS_C_0.3	2025-03-24 17:10:14
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	26.234
+SIM_END		LKAS_C_0.3	26.231s	395.646m
+TIME	29.715
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-24 17:10:59
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.002
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	162.045m
+TIME	161.097
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-24 17:30:36
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	10.930
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	10.927s	34.0477m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-24 17:30:49
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	30.568
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	30.565s	107.901m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-24 17:31:02
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.003
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	162.045m
+TIME	47.851
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-24 17:31:47
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	43.631
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	43.628s	156.985m
+SIM_START	LKAS_C_Using_sensor_data_maneuvers	2025-03-24 17:32:06
+TIME	0.000
+SIMULATE	LKAS_C_Using_sensor_data_maneuvers
+
+TIME	45.003
+SIM_END		LKAS_C_Using_sensor_data_maneuvers	45s	162.045m
+TIME	57.295
+SHUTDOWN	CarMaker quick shutdown initiated
+

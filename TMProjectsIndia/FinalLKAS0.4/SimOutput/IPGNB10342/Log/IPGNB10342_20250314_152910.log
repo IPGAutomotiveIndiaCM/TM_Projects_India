@@ -1,0 +1,18 @@
+APPLICATION	Truck_Generic <insert.your.version.no> #109 (win64-14.0)
+COMPILED	Rahul Vishwanatha@ipgnb10342 2025-03-14 15:29:02
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-14 15:29:10
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:29:11
+SIM_START	LKAS_C_0.3	2025-03-14 15:29:16
+TIME	0.000
+SIMULATE	LKAS_C_0.3
+
+TIME	6.161
+ERROR		IPGDriver: Time stepsize too big at time = 6.211000: dt = 0.051000 (> 0.02s) (id=300)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 6.211000, ErrInd = 300). (id=200)
+SIM_ABORT	LKAS_C_0.3	6.312s	50.7937m
+SHUTDOWN	CarMaker quick shutdown initiated
+

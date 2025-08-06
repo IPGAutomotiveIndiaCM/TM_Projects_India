@@ -1,0 +1,15 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Plugins 1
+FileCreator = CarMaker 14.0
+VehicleControl.MyModel = 1
+VehicleControl.MyModel.Info = MyModel
+VehicleControl.MyModel.Tags =
+Environment.Generic =
+Environment.Generic.Info =
+Environment.Generic.Tags =
+SuspControl. = 0
+SuspControl..Info =
+SuspControl..Tags =
+VehicleControl.LKAS = 1
+VehicleControl.LKAS.Info =
+VehicleControl.LKAS.Tags =
