@@ -1,0 +1,17 @@
+
+
+SYSTEM_START	-	ipgnb10342	Wed Mar 5 12:10:03 2025
+
+
+SYSTEM_INFO	Movie NX pro 14.0 2024-11-25
+[Warning] [Engine] 
+                   Xml::printUnusedData(): Unused in file:"configs/default.user"
+[Warning] [Engine] 	Unused in node:"video_extension"	data:"2"
+[Warning] [Engine] 
+APO: Successfully connected to: TruckMaker 14.0 - Truck_Generic @ IPGNB10342(127.0.0.1):6648
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+ApoConnection: Disconnecting...
+Loading Test Run from path C:/CM_Projects/Volvo/Data/TestRun/.tmp_preview
+[ERROR] Could not initialize Road API! (Error: -30)

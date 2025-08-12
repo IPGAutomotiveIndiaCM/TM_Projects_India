@@ -1,0 +1,13 @@
+
+
+SYSTEM_START	-	ipgnb10342	Fri Mar 7 12:33:58 2025
+
+
+SYSTEM_INFO	Movie NX pro 14.0 2024-11-25
+APO: Successfully connected to: TruckMaker 14.0 - Truck_Generic @ IPGNB10342(127.0.0.1):26852
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+ApoConnection: Disconnecting...
+Loading Test Run from path C:/CM_Projects/Volvo/Data/TestRun/.tmp_preview
+ApoConnection: Disconnecting...

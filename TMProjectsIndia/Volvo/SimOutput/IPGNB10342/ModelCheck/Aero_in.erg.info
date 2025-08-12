@@ -1,0 +1,43 @@
+#INFOFILE1
+# Description file
+
+File.Format = erg
+File.ByteOrder = LittleEndian
+
+# 7 quantities of type 'Float'
+
+File.At.1.Name =	tau
+File.At.1.Type =	Float
+Quantity.tau.Unit =	deg
+
+File.At.2.Name =	cDragF
+File.At.2.Type =	Float
+
+File.At.3.Name =	cSideF
+File.At.3.Type =	Float
+
+File.At.4.Name =	cLiftF
+File.At.4.Type =	Float
+
+File.At.5.Name =	cRollTrq
+File.At.5.Type =	Float
+
+File.At.6.Name =	cPitchTrq
+File.At.6.Type =	Float
+
+File.At.7.Name =	cYawTrq
+File.At.7.Type =	Float
+
+
+CarMaker.Version =	14.0
+App.Version =		TruckMaker 14.0 - Truck_Generic
+App.BuildVersion =	2
+TestRun.Vehicle =	ExamplesTM/Demo3AxleSemiTruck6x4_Freightliner_Cascadia
+TestRun.Tire.0 =	
+TestRun.Tire.1 =	
+TestRun.Tire.2 =	
+TestRun.Tire.3 =	
+TestRun.Tire.4 =	
+TestRun.Tire.5 =	
+Aero.WindVel =  100
+Aero.Ax =       2

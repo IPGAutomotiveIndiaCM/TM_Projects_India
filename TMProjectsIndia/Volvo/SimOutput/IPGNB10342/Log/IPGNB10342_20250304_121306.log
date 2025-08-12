@@ -1,0 +1,41 @@
+APPLICATION	TruckMaker 14.0 - Truck_Generic #2 (win64-14.0)
+COMPILED	jetbrains@b5882e3d7d42 2024-11-26 13:07:28
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-03-04 12:13:06
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:13:07
+SIM_START	unknown	2025-03-04 12:13:09
+TIME	0.002
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+SIM_ABORT	unknown	0s	0m
+TIME	2.646
+SIM_START	unknown	2025-03-04 12:13:35
+TIME	0.003
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2025-03-04 12:13:55
+TIME	0.001
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2025-03-04 12:13:57
+TIME	0.246
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+TIME	0.026
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2025-03-04 12:14:05
+TIME	0.853
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+TIME	0.045
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2025-03-04 12:14:16
+TIME	0.004
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2025-03-04 12:14:19
+TIME	0.003
+ERROR		Man 0, Step 0: Unknown command 'Velocity=Car.v'
+SIM_ABORT	unknown	0s	0m
+SHUTDOWN	CarMaker quick shutdown initiated
+
