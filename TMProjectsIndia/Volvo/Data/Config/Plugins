@@ -1,0 +1,15 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Plugins 1
+FileCreator = CarMaker 14.0
+SuspControl.AirSuspControl_wSystem = 14
+SuspControl.AirSuspControl_wSystem.Info = AirSuspControl_wSystem
+SuspControl.AirSuspControl_wSystem.Tags =
+Environment.Generic =
+Environment.Generic.Info =
+Environment.Generic.Tags =
+SuspControl. = 0
+SuspControl..Info =
+SuspControl..Tags =
+AirBrakeSystem.Airbrake = 1
+AirBrakeSystem.Airbrake.Info = Airbrake
+AirBrakeSystem.Airbrake.Tags =
