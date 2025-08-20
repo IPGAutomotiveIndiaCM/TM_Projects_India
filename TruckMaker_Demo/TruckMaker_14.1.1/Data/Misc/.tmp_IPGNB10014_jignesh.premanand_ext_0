@@ -1,0 +1,150 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-SuspControl-AirSuspControl_wSystem 13
+FileCreator = TruckMaker Office 13.1.1
+
+Description:
+	Truck 2-Axle: AirSuspControl_wSystem model
+	Suspension Control-Unit Model: IPG AirSuspControl_wSystem
+
+###--------------------------------------------------------------------------###
+# See the Pneumatic Toolbox documentation for the whole list of possible
+# component parameters and their default values.
+###--------------------------------------------------------------------------###
+
+### Air Suspension Control Quantity Switches --------------------------------###
+#DeclQuants.Pipes = 1
+#DeclQuants.All = 1
+#DeclQuants.Temperature = 1
+#DeclQuants.Density = 1
+#DeclQuants.Valve = 1
+#DeclQuants.Flux = 1
+
+### Air Suspension Control --------------------------------------------------###
+### Control Strategy
+Ctrl.AutoCtrl = 1
+Ctrl.CtrlAxle = RA
+Ctrl.EPS.Mode = RefPres
+Ctrl.EPS.PressureLimit = 10e5
+Ctrl.EPS.RefPres.System = Tr.Brake.Air.Sys
+Ctrl.EPS.RefPres.Comp = R
+Ctrl.EPS.RefPres.PortNum = 1
+Ctrl.Lift = 0.8
+
+### Suspension
+Comp.Susp.Type = Suspension
+Comp.Susp.ID = 0
+
+### Electric Pressure Supply
+Comp.EPS.Type = EValve
+Comp.EPS.ID = 0
+Comp.EPS.n_outlets = 1
+Comp.EPS.Temperature = 293.15
+Comp.EPS.Pressure = 1.01325e5
+Comp.EPS.1.Volume = 0.3e-3
+Comp.EPS.2.Volume = 0.3e-3
+Comp.EPS.CtrlValve = 0.5e-7 0.5 0.03 0.03 2e5
+Comp.EPS.ReleaseValve = 0.5e-7 0.5 0.03 0.03 1e5
+
+### Electric Load Dependent Valve Front
+Comp.ELV_F.Type = EValve
+Comp.ELV_F.ID = 2
+Comp.ELV_F.n_outlets = 1
+Comp.ELV_F.Temperature = 293.15
+Comp.ELV_F.Pressure = 1.01325e5
+Comp.ELV_F.1.Volume = 0.3e-3
+Comp.ELV_F.2.Volume = 0.3e-3
+Comp.ELV_F.CtrlValve = 0.5e-7 0.5 0.03 0.03 2e5
+Comp.ELV_F.ReleaseValve = 0.3e-7 0.5 0.03 0.03 1e5
+
+### Electric Load Dependent Valve Rear
+Comp.ELV_R.Type = EValve
+Comp.ELV_R.ID = 1
+Comp.ELV_R.n_outlets = 1
+Comp.ELV_R.Temperature = 293.15
+Comp.ELV_R.Pressure = 1.01325e5
+Comp.ELV_R.1.Volume = 0.3e-3
+Comp.ELV_R.2.Volume = 0.3e-3
+Comp.ELV_R.CtrlValve = 0.5e-7 0.5 0.03 0.03 2e5
+Comp.ELV_R.ReleaseValve = 0.3e-7 0.5 0.03 0.03 1e5
+
+### Reservoir
+Comp.Reservoir.Type = Reservoir
+Comp.Reservoir.Invariant = 0
+Comp.Reservoir.Temperature = 293.15
+Comp.Reservoir.Pressure = 11e5
+Comp.Reservoir.Volume = 0.1
+
+### Suspension Spring Valve
+Comp.SSV_FL.Type = SuspensionSpringValve
+Comp.SSV_FL.Position = FL
+Comp.SSV_FL.Temperature = 293.15
+Comp.SSV_FL.Pressure = 1.01325e5
+Comp.SSV_FL.Volume = 0.3e-3
+
+Comp.SSV_FR.Type = SuspensionSpringValve
+Comp.SSV_FR.Position = FR
+Comp.SSV_FR.Temperature = 293.15
+Comp.SSV_FR.Pressure = 1.01325e5
+Comp.SSV_FR.Volume = 0.3e-3
+
+Comp.SSV_RL.Type = SuspensionSpringValve
+Comp.SSV_RL.Position = RL
+Comp.SSV_RL.Temperature = 293.15
+Comp.SSV_RL.Pressure = 1.01325e5
+Comp.SSV_RL.Volume = 0.3e-3
+
+Comp.SSV_RR.Type = SuspensionSpringValve
+Comp.SSV_RR.Position = RR
+Comp.SSV_RR.Temperature = 293.15
+Comp.SSV_RR.Pressure = 1.01325e5
+Comp.SSV_RR.Volume = 0.3e-3
+
+Comp.SSV_RL2.Type = SuspensionSpringValve
+Comp.SSV_RL2.Position = RL2
+Comp.SSV_RL2.Temperature = 293.15
+Comp.SSV_RL2.Pressure = 1.01325e5
+Comp.SSV_RL2.Volume = 0.3e-3
+
+Comp.SSV_RR2.Type = SuspensionSpringValve
+Comp.SSV_RR2.Position = RR2
+Comp.SSV_RR2.Temperature = 293.15
+Comp.SSV_RR2.Pressure = 1.01325e5
+Comp.SSV_RR2.Volume = 0.3e-3
+
+### Suspension Valve
+Comp.SV.Type = SuspensionValve
+Comp.SV.ID = 1
+Comp.SV.Temperature = 293.15
+Comp.SV.Pressure = 1.01325e5
+Comp.SV.1.Volume = 1.0e-4
+Comp.SV.2.Volume = 1.0e-4
+Comp.SV.SupplyValve = 3e-8 0.5 0.05 0.05 1e5
+
+### TPieces
+Comp.TPF.Type = TPiece
+Comp.TPF.Calibre = 0.006
+Comp.TPC.Type = TPiece
+Comp.TPC.Calibre = 0.006
+Comp.TPR.Type = TPiece
+Comp.TPR.Calibre = 0.006
+Comp.TPRL.Type =
+Comp.TPRL.Calibre =
+Comp.TPRR.Type =
+Comp.TPRR.Calibre =
+
+### System Setup (Pipes):----------------------------------------------------###
+###            comp-out   comp-in       Len[m]  Cal[mm]   p[bar]  T[K]   lambda
+PipeDefaults = 2      10     1.013     25     0.0
+
+Pipe.1 = Susp-2       EPS-1       5   10
+Pipe.2 = EPS-2        Reservoir-1 5   10
+Pipe.3 = Reservoir-22 SV-1        10  10
+Pipe.4 = Reservoir-21 TPC-1       2   10
+Pipe.5 = TPC-21       ELV_F-1     2   10
+Pipe.6 = TPC-22       ELV_R-1     2   10
+Pipe.7 = ELV_F-2      TPF-1       2   10
+Pipe.8 = ELV_R-2      TPR-1       2   10
+Pipe.9 = TPF-21       SSV_FL-1    2   10
+Pipe.10 = TPF-22       SSV_FR-1    2   10
+Pipe.11 = TPR-21       SSV_RL-1    2   10
+Pipe.12 = TPR-22       SSV_RR-1    2   10

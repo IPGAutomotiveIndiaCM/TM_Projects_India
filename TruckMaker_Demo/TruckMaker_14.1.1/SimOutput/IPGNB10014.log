@@ -1,0 +1,619 @@
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2024-09-24 14:31:33
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1727168493	IPGNB10014			0	0	0
+SIM	1727168497	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	105.759	271.51
+SIM	1727168850	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	18.469	92.3136
+SIM	1727168888	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	35.108	112.128
+SIM	1727168944	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	3.655	43.104
+SIM	1727168965	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	3.718	43.8467
+SIM	1727168998	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	3.797	43.8804
+SIM	1727169025	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	3.836	43.8808
+SIM	1727169117	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	30.486	91.1975
+SIM	1727169168	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	120.071	268.2
+SIM	1727169382	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	118.632	260.231
+SIM	1727169519	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	118.278	259.388
+SIM	1727169709	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	118.281	259.388
+SIM	1727169768	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	123.687	262.388
+SIM	1727169864	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	123.681	266.395
+SIM	1727169922	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	356.604	266.349
+SIM	1727169996	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	392.815	266.349
+SIM	1727170076	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	0	126.784	263.388
+SIM	1727170146	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/ParkingAssist/ParkingOnParkingLot	1	133.865	267.195
+SIM	1727172186	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/AutonomousFunctions/PedestrianDetection_CrosstheRoad	0	40	440.146
+SIM	1727172219	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/AutonomousFunctions/PedestrianDetection_CrosstheRoad	0	40	440.146
+SIM	1727172311	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/AutonomousFunctions/PedestrianDetection_CrosstheRoad	0	40	440.146
+SIM	1727172528	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/AutonomousFunctions/PedestrianDetection_CrosstheRoad	0	40	440.146
+SIM	1727172784	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/AutonomousFunctions/PedestrianDetection_CrosstheRoad	0	40	440.146
+SIM	1727173231	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/AutonomousFunctions/PedestrianDetection_CrosstheRoad	0	40	440.146
+SIM	1727174569	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/TrafficJam_withCrash	0	50	121.736
+SIM	1727174641	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/Driving_against_Column	0	154.88	2500.03
+SIM	1727175462	IPGNB10014	jignesh.premanand	Examples/DriverAssistance/_QuickStartGuide/Step3_AddCollisionDetection	1	25.28	491.027
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-07 11:22:15
+
+
+SYSTEM_INFO	TruckMaker 13.0 - Truck_Generic #2	jetbrains@b1fdf6cc7772 2023-11-14 16:18:37	(13.0 jetbrains@b1fdf6cc7772 2023-11-14 16:10:58)
+SIM	1736229135	IPGNB10014			0	0	0
+SIM	1736229136	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	133.865	267.195
+SIM	1736229293	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	133.865	267.195
+SIM	1736229366	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	133.537	267.388
+SIM	1736229436	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	130.75	266.423
+SIM	1736229491	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	130.75	266.423
+SIM	1736229576	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	125.52	263.523
+SIM	1736229745	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	120.119	260.525
+SIM	1736229782	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	120.119	260.525
+SIM	1736229937	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	132.734	267.522
+SIM	1736230087	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	127.42	258.613
+SIM	1736230160	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	122.695	255.518
+SIM	1736230258	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.073	255.519
+SIM	1736230359	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	16.655	77.4689
+SIM	1736230380	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	122.367	253.521
+SIM	1736230524	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	122.897	255.021
+SIM	1736230633	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	127.265	256.489
+SIM	1736230742	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	122.897	255.021
+SIM	1736230829	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	162.005	365.086
+SIM	1736230933	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	132.895	255.45
+SIM	1736231108	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	133.249	255.678
+SIM	1736231175	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	163.249	336.489
+SIM	1736231285	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	163.249	336.489
+SIM	1736231424	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	20.99	92.5291
+SIM	1736231469	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	20.99	92.5291
+SIM	1736231548	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	133.671	293.481
+SIM	1736231662	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.585	251.011
+SIM	1736231724	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.009
+SIM	1736232295	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	3.117	37.2744
+SIM	1736236101	IPGNB10014	jignesh.premanand	test_double_langechange_trajectory	0	12.094	334.682
+SIM	1736236132	IPGNB10014	jignesh.premanand	CollisionDetection	1	25.28	491.027
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-09 14:05:14
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1736411714	IPGNB10014			0	0	0
+SIM	1736411718	IPGNB10014	jignesh.premanand	CollisionDetection	0	5.924	104.562
+SIM	1736411748	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	859.951
+SIM	1736411847	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	860.045
+SIM	1736412102	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	860.045
+SIM	1736412177	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	859.951
+SIM	1736412660	IPGNB10014	jignesh.premanand	CollisionDetection	0	42.975	641.064
+SIM	1736412731	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	859.951
+SIM	1736412840	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	859.951
+SIM	1736412916	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	859.951
+SIM	1736413107	IPGNB10014	jignesh.premanand	CollisionDetection	1	25.28	491.027
+SIM	1736413143	IPGNB10014	jignesh.premanand	CollisionDetection	1	25.28	491.027
+SIM	1736413275	IPGNB10014	jignesh.premanand	CollisionDetection	0	14.446	244.455
+SIM	1736413329	IPGNB10014	jignesh.premanand	CollisionDetection	0	60	418.914
+SIM	1736414292	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	87.581	1241.31
+SIM	1736414382	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+SIM	1736414854	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-09 15:09:59
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1736415599	IPGNB10014			0	0	0
+SIM	1736415610	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	66.429	1006.99
+SIM	1736415679	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	46.029	782.575
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-09 15:14:23
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1736415863	IPGNB10014			0	0	0
+SIM	1736415931	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+SIM	1736415981	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+SIM	1736415989	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+SIM	1736416004	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-09 15:22:04
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1736416324	IPGNB10014			0	0	0
+SIM	1736416329	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+SIM	1736416612	IPGNB10014	jignesh.premanand	ExamplesTM/DrivingAssistanceSystems/ACCandPreCrash/ColumnDriving_Deceleration	0	100.002	1379.17
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-28 10:58:45
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738042125	IPGNB10014			0	0	0
+SIM	1738042128	IPGNB10014	jignesh.premanand	CollisionDetection	1	0	0
+SIM	1738042258	IPGNB10014	jignesh.premanand	CollisionDetection	0	41.75	625.314
+SIM	1738042355	IPGNB10014	jignesh.premanand	CollisionDetection	0	48.959	718.093
+SIM	1738042435	IPGNB10014	jignesh.premanand	CollisionDetection	0	49.307	722.473
+SIM	1738042487	IPGNB10014	jignesh.premanand	CollisionDetection	0	15.573	262.126
+SIM	1738042506	IPGNB10014	jignesh.premanand	CollisionDetection	0	42.725	637.85
+SIM	1738042552	IPGNB10014	jignesh.premanand	CollisionDetection	0	47.342	697.303
+SIM	1738043256	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	17.358	43.1158
+SIM	1738043276	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	42.879	103.805
+SIM	1738043359	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	40.282	526.233
+SIM	1738043414	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	36.189	97.3145
+SIM	1738043453	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.236	407.525
+SIM	1738045715	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	17.192	220.098
+SIM	1738046132	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	33.279	488.215
+SIM	1738046393	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	33.279	488.215
+SIM	1738046485	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	33.279	488.215
+SIM	1738046709	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738046743	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738046895	IPGNB10014	jignesh.premanand	TM_Collision_Detection	2	0	288.2
+SIM	1738046929	IPGNB10014	jignesh.premanand	TM_Collision_Detection	2	0	0
+SIM	1738047039	IPGNB10014	jignesh.premanand	TM_Collision_Detection	2	0	0
+SIM	1738047099	IPGNB10014	jignesh.premanand	TM_Collision_Detection	2	0	0
+SIM	1738047165	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	16.344	171.276
+SIM	1738047224	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	24.345	288.249
+SIM	1738050999	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	24.012	288.245
+SIM	1738051079	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	18.363	239.612
+SIM	1738051100	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	20.9	281.9
+SIM	1738051123	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051147	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051186	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	22.915	288.262
+SIM	1738051212	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	23.211	288.252
+SIM	1738051238	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	22.712	288.247
+SIM	1738051264	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	22.306	288.231
+SIM	1738051307	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	18.74	245.897
+SIM	1738051328	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	20.425	273.983
+SIM	1738051351	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051392	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	54.618	160.742
+SIM	1738051450	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	23.133	159.839
+SIM	1738051476	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051560	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051597	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	22.214	288.224
+SIM	1738051611	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051638	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051654	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051697	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051731	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738051939	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738052024	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.455	288.2
+SIM	1738052097	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738052123	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.321	288.207
+SIM	1738052164	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	24.71	284.491
+SIM	1738052191	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	25.143	288.181
+SIM	1738052220	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	25.147	288.189
+SIM	1738052253	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	25.373	288.184
+SIM	1738053023	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	24.961	288.187
+SIM	1738053098	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	5.827	33.9464
+SIM	1738053107	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	25.136	288.185
+SIM	1738053160	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	28.641	288.255
+SIM	1738053197	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	29.148	288.255
+SIM	1738053252	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738053318	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738053344	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738053368	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738053399	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	19.812	263.766
+SIM	1738053421	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	21.278	288.2
+SIM	1738053561	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0.002	7.8709e-10
+SIM	1738053571	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0.002	7.8709e-10
+SIM	1738053646	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0.002	7.8709e-10
+SIM	1738053688	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0.002	7.8709e-10
+SIM	1738053725	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	16.912	288.103
+SIM	1738053785	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.654	177.785
+SIM	1738053880	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.703	178.601
+SIM	1738053947	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.901	181.901
+SIM	1738054040	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.879	181.534
+SIM	1738054073	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	10.124	102.352
+SIM	1738054086	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	5.563	30.3199
+SIM	1738054094	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.893	181.768
+SIM	1738054161	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.893	181.768
+SIM	1738054193	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.703	178.601
+SIM	1738054478	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.893	181.768
+SIM	1738054767	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	0	181.768
+SIM	1738054776	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	0	0
+SIM	1738054844	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.841	180.901
+SIM	1738054901	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.817	180.501
+SIM	1738054939	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.817	180.501
+SIM	1738054995	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.817	180.501
+SIM	1738055042	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.817	180.501
+SIM	1738055065	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738055186	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738055216	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738055374	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738055549	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738055622	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	5.514	29.6666
+SIM	1738055733	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738056100	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738056383	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738056554	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738056673	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738056727	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738057072	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738057265	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.823	180.601
+SIM	1738057483	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.823	180.601
+SIM	1738057523	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.87	220.048
+SIM	1738057563	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.823	180.601
+SIM	1738057636	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.823	180.601
+SIM	1738062524	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.823	180.601
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-28 17:00:40
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738063840	IPGNB10014			0	0	0
+SIM	1738063849	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.823	180.601
+SIM	1738064023	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	7.357	57.235
+SIM	1738064350	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	14.912	145.58
+SIM	1738064730	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	14.584	145.46
+SIM	1738064900	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	14.608	145.86
+SIM	1738064980	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	145.86
+SIM	1738065009	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	14.598	145.694
+SIM	1738065084	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	14.607	145.843
+SIM	1738065142	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.895	178.116
+SIM	1738065280	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.826	178.449
+SIM	1738065313	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	14.818	178.474
+SIM	1738065365	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	15.003	180.348
+SIM	1738065415	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738065465	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738065537	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738065892	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	12.959	149.54
+SIM	1738065930	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738066172	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.401	176.503
+SIM	1738066233	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-29 09:54:13
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738124653	IPGNB10014			0	0	0
+SIM	1738124655	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.009
+SIM	1738124967	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	78.16	235.019
+SIM	1738125049	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	44.259	137.049
+SIM	1738126501	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	27.98	102.02
+SIM	1738126656	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	122.557	251.955
+SIM	1738126795	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	20.48	90.5777
+SIM	1738126858	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	12.571	73.7117
+SIM	1738126902	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.009
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-01-30 18:13:48
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738241028	IPGNB10014			0	0	0
+SIM	1738241032	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738241174	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-04 11:48:14
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738649894	IPGNB10014			0	0	0
+SIM	1738649942	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738650045	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738650399	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738655764	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738661459	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738667030	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738667087	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738667140	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738667273	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738667458	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738670951	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738671124	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738671167	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738671192	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738671534	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738671572	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738672370	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738672512	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738672654	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.401	176.503
+SIM	1738673144	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673310	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673389	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673472	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673551	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673651	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673718	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673840	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738673984	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.401	176.503
+SIM	1738674052	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738674137	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738674290	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.401	176.503
+SIM	1738674347	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-05 11:41:07
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738735867	IPGNB10014			0	0	0
+SIM	1738735868	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738736943	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738737405	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738737869	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	176.487
+SIM	1738737975	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738741432	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738741470	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738741568	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738741887	IPGNB10014	jignesh.premanand	TM_AEB_Detection	2	0	176.487
+SIM	1738741925	IPGNB10014	jignesh.premanand	TM_AEB_Detection	2	0	0
+SIM	1738741967	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738742103	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738742137	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738742166	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738742264	IPGNB10014	jignesh.premanand	TM_AEB_Detection	1	0	0
+SIM	1738742844	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738743127	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738743197	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.009
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-05 13:45:36
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738743336	IPGNB10014			0	0	0
+SIM	1738743366	IPGNB10014	jignesh.premanand	ExamplesTM/TruckMakerFunctions/AirSpring/BumpyCircle_AirSpring	0	311.872	2175.66
+SIM	1738744404	IPGNB10014	jignesh.premanand	ExamplesTM/VehicleDynamics/RampSteerInput_80_60	0	61	984.058
+SIM	1738744518	IPGNB10014	jignesh.premanand	ExamplesTM/VehicleDynamics/RampSteerInput_80_60	0	61	984.058
+SIM	1738745232	IPGNB10014	jignesh.premanand	ExamplesTM/VehicleDynamics/RampSteerInput_80_60	0	61	984.058
+SIM	1738750315	IPGNB10014	jignesh.premanand	ExamplesTM/VehicleDynamics/RampSteerInput_80_60	0	61	984.058
+SIM	1738753743	IPGNB10014	jignesh.premanand	ExamplesTM/VehicleDynamics/RampSteerInput_80_60	0	61	984.058
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-06 10:15:35
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738817135	IPGNB10014			0	0	0
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-06 10:16:53
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738817213	IPGNB10014			0	0	0
+SIM	1738817633	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738817714	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.401	176.503
+SIM	1738817754	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.4	176.487
+SIM	1738817856	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.4	176.487
+SIM	1738817943	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.4	176.487
+SIM	1738818040	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-06 10:38:11
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1738818491	IPGNB10014			0	0	0
+SIM	1738818514	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.4	176.487
+SIM	1738818605	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.401	176.503
+SIM	1738818802	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738818945	IPGNB10014	jignesh.premanand	unknown	0	166.862	464.945
+SIM	1738831012	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738831070	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738834776	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	9.239	87.7367
+SIM	1738834861	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1738835003	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.703	178.601
+SIM	1738835072	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1738835353	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-02-12 10:49:39
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1739337579	IPGNB10014			0	0	0
+SIM	1739337588	IPGNB10014	jignesh.premanand	TM_AEB-RadarRSI_Detection	0	16.401	176.503
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-03-04 17:01:51
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1741087911	IPGNB10014			0	0	0
+SIM	1741087913	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.009
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-03-05 11:26:04
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1741154164	IPGNB10014			0	0	0
+SIM	1741154166	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.009
+SIM	1741154632	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	1	3.415	41.9823
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-03-06 17:06:59
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1741261020	IPGNB10014			0	0	0
+SIM	1741261024	IPGNB10014	jignesh.premanand	ExamplesTM/TruckMakerFunctions/IPGTraffic/TriggeredTrafficObjects	0	111.576	1414.68
+SIM	1741261151	IPGNB10014	jignesh.premanand	ExamplesTM/TruckMakerFunctions/IPGTraffic/TriggeredTrafficObjects	0	111.576	1414.68
+SIM	1741261271	IPGNB10014	jignesh.premanand	ExamplesTM/TruckMakerFunctions/IPGTraffic/TriggeredTrafficObjects	0	78.111	949.884
+SIM	1741261357	IPGNB10014	jignesh.premanand	ExamplesTM/TruckMakerFunctions/IPGTraffic/TriggeredTrafficObjects	0	85.082	1015.31
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-03-11 15:33:58
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1741687438	IPGNB10014			0	0	0
+SIM	1741687439	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.703	178.601
+SIM	1741687583	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0.376	1.33153e-05
+SIM	1741687880	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.703	178.601
+SIM	1741688004	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1741688194	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.703	178.601
+SIM	1741688453	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1741688720	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0.346	8.053e-06
+SIM	1741689153	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1741689458	IPGNB10014	jignesh.premanand	ExamplesTM/VehicleDynamics/Slalom_36m	0	80.318	1077.49
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-04-29 16:19:15
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1745923755	IPGNB10014			0	0	0
+SIM	1745923761	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1745924148	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	4.501	17.7342
+SIM	1745924177	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-05-29 16:48:47
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1748517528	IPGNB10014			0	0	0
+SIM	1748517529	IPGNB10014	jignesh.premanand	TM_Collision_Detection	0	0	0
+SIM	1748517637	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1748517831	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-11 14:55:46
+
+
+SYSTEM_INFO	TruckMaker 13.1.1 - Truck_Generic #2	jetbrains@5c973b203201 2024-07-15 15:35:51	(13.1.1 jetbrains@5c973b203201 2024-07-15 15:27:16)
+SIM	1754904346	IPGNB10014			0	0	0
+SIM	1754904348	IPGNB10014	jignesh.premanand	ParkingOnParkingLot_Eurotech	0	123.885	252.01
+SIM	1754905126	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	16.4	176.487
+SIM	1754907834	IPGNB10014	jignesh.premanand	TM_AEB_Detection	0	0	0
+SIM	1754914396	IPGNB10014	jignesh.premanand	TM_Collision_Detection	1	14.823	180.601
+SIM	1754914534	IPGNB10014	jignesh.premanand	Examples/BasicFunctions/Sensors/CollisionSensor_DetectContact	0	5.1	10.6438
+SIM	1754914573	IPGNB10014	jignesh.premanand	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	0	18	102.447
+SIM	1754915699	IPGNB10014	jignesh.premanand	Examples/BasicFunctions/Traffic/TrafficSwarm	0	264.063	5472.96
+SIM	1754916514	IPGNB10014	jignesh.premanand	HDScenarios/SanFrancisco/SanFrancisco_Driving_Summer	0	20.794	50.786
+SIM	1754916548	IPGNB10014	jignesh.premanand	HDScenarios/SanFrancisco/SanFrancisco_Driving_Summer	0	122.633	738.016
+SIM	1754916674	IPGNB10014	jignesh.premanand	SanFrancisco_Driving_BSD	0	250	691.768
+SIM	1754917035	IPGNB10014	jignesh.premanand	SanFrancisco_Driving_BSD	0	250	691.768
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-11 18:41:01
+
+
+SYSTEM_INFO	TruckMaker 14.1.1 - Truck_Generic #2	jetbrains@2dc68d98a08b 2025-07-07 14:58:02	(14.1.1 jetbrains@2dc68d98a08b 2025-07-07 14:37:51)
+SIM	1754917861	IPGNB10014			0	0	0
+SIM	1754917862	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.542	250.912
+SIM	1754917886	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.542	250.912
+SIM	1754918102	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	125.032	255.875
+SIM	1754918122	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	124.143	252.915
+SIM	1754918159	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	126.235	259.882
+SIM	1754918198	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	126.235	259.882
+SIM	1754918246	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	122.94	248.905
+SIM	1754918290	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.24	249.907
+SIM	1754918346	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.693	251.414
+SIM	1754918393	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.844	251.916
+SIM	1754918418	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.993	252.413
+SIM	1754918479	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.918	252.163
+SIM	1754918578	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.918	252.161
+SIM	1754919784	IPGNB10014	jignesh.premanand	Demos/SanFrancisco_Driving_BSD	0	6.268	17.6422
+SIM	1754919806	IPGNB10014	jignesh.premanand	Demos/SanFrancisco_Driving_BSD	0	163.006	445.602
+SIM	1754920008	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	4.639	19.2551
+SIM	1754920020	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	16.399	176.486
+SIM	1754920079	IPGNB10014	jignesh.premanand	Demos/TM_Collision_Detection	1	14.822	180.601
+SIM	1754920128	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	20.839	11.3473
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-11 19:22:34
+
+
+SYSTEM_INFO	TruckMaker 14.1.1 - Truck_Generic #2	jetbrains@2dc68d98a08b 2025-07-07 14:58:02	(14.1.1 jetbrains@2dc68d98a08b 2025-07-07 14:37:51)
+SIM	1754920354	IPGNB10014			0	0	0
+SIM	1754920356	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	2	0	0
+SIM	1754920408	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.40516
+SIM	1754921779	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	26.79	4.29413e-06
+SIM	1754921831	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	92.858	4.29413e-06
+SIM	1754921927	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	67.678	4.29413e-06
+SIM	1754922763	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	111.12	4.29413e-06
+SIM	1754922909	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	1.504	4.17752e-06
+SIM	1754923180	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	109.324	4.29413e-06
+SIM	1754923295	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	178.02	4.29413e-06
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-12 19:55:26
+
+
+SYSTEM_INFO	TruckMaker 14.1.1 - Truck_Generic #2	jetbrains@2dc68d98a08b 2025-07-07 14:58:02	(14.1.1 jetbrains@2dc68d98a08b 2025-07-07 14:37:51)
+SIM	1755008726	IPGNB10014			0	0	0
+SIM	1755008727	IPGNB10014	jignesh.premanand	Demos/SanFrancisco_Driving_BSD	0	101.716	271.821
+SIM	1755008920	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.48163
+SIM	1755009112	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.33117
+SIM	1755009457	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	129.306	4.29413e-06
+SIM	1755014020	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	15	0	0
+SIM	1755015268	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	34.94	93.3814
+SIM	1755015344	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	88.63	244.945
+SIM	1755015435	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	37.095	99.4648
+SIM	1755015518	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	25.679	67.2382
+SIM	1755015547	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	116.657	324.473
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-12 21:53:58
+
+
+SYSTEM_INFO	TruckMaker 14.1.1 - Truck_Generic #2	jetbrains@2dc68d98a08b 2025-07-07 14:58:02	(14.1.1 jetbrains@2dc68d98a08b 2025-07-07 14:37:51)
+SIM	1755015838	IPGNB10014			0	0	0
+SIM	1755015840	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	52.795	343.939
+SIM	1755015896	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	118.47	800.016
+SIM	1755016423	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.33117
+SIM	1755016556	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	16.399	176.486
+SIM	1755016708	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.918	252.161
+SIM	1755016909	IPGNB10014	jignesh.premanand	Demos/SanFrancisco_Driving_BSD	0	250	691.768
+SIM	1755025641	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	44.8	288.418
+SIM	1755025742	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	47.697	297.112
+SIM	1755025821	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	44.313	267.623
+SIM	1755025901	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	44.745	265.434
+SIM	1755025964	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	147.535	815.03
+SIM	1755026025	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	69.974	465.053
+SIM	1755026197	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	99.255	700.641
+SIM	1755026264	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755026359	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	122.933	822.791
+SIM	1755026440	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	109.265	727.874
+SIM	1755026464	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	112.497	750.319
+SIM	1755026489	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	114.131	761.666
+SIM	1755026515	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755026543	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755026584	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755026592	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755027659	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	1013.6	4.29413e-06
+SIM	1755028188	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.30713
+SIM	1755030941	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	15.421	176.312
+SIM	1755031387	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	16.399	176.486
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-13 11:46:33
+
+
+SYSTEM_INFO	TruckMaker 14.1.1 - Truck_Generic #2	jetbrains@2dc68d98a08b 2025-07-07 14:58:02	(14.1.1 jetbrains@2dc68d98a08b 2025-07-07 14:37:51)
+SIM	1755065794	IPGNB10014			0	0	0
+SIM	1755065795	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	3.057	1.12816
+SIM	1755065813	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	4.219	4.29366e-06
+SIM	1755065900	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	6.32	4.29412e-06
+SIM	1755065909	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	0	0
+SIM	1755065926	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	4.172	4.2936e-06
+SIM	1755066024	IPGNB10014	jignesh.premanand	Demos/MOIS_SensorView	0	3.357	4.29202e-06
+SIM	1755067556	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	1.468	0.0126672
+SIM	1755069052	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	0	0.0126672
+SIM	1755069076	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755069307	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755069696	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.28336
+SIM	1755069805	IPGNB10014	jignesh.premanand	Demos/traffic_mois_AEB	0	35.1	9.61389
+SIM	1755069908	IPGNB10014	jignesh.premanand	Demos/ParkingOnParkingLot_Eurotech	0	123.918	252.161
+SIM	1755070141	IPGNB10014	jignesh.premanand	Demos/SanFrancisco_Driving_BSD	0	216.125	595.948
+SIM	1755078019	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	16.399	176.486
+SIM	1755078056	IPGNB10014	jignesh.premanand	Demos/TM_AEB_Detection	0	16.399	176.486
+
+
+SYSTEM_START	-	IPGNB10014	IPGNB10014	2025-08-19 11:04:06
+
+
+SYSTEM_INFO	TruckMaker 14.1.1 - Truck_Generic #2	jetbrains@2dc68d98a08b 2025-07-07 14:58:02	(14.1.1 jetbrains@2dc68d98a08b 2025-07-07 14:37:51)
+SIM	1755581646	IPGNB10014			0	0	0
+SIM	1755581650	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755581739	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755581774	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
+SIM	1755581809	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	125.118	837.965
+SIM	1755581838	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	0	111.629	744.291
+SIM	1755581865	IPGNB10014	jignesh.premanand	Demos/CAM_OBJ_Sensor_Validation-Sesion_LOG	1	133.338	895.048
