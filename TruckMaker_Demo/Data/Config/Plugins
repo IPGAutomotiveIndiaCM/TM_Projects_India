@@ -1,0 +1,27 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Plugins 1
+FileCreator = CarMaker 14.1.1
+Steering.UserSteer_RTW = 1
+Steering.UserSteer_RTW.Info = UserSteer_RTW
+Steering.UserSteer_RTW.Tags =
+Environment.Generic =
+Environment.Generic.Info = Generic
+Environment.Generic.Tags =
+VhclOperator.IPGOperator = 1
+VhclOperator.IPGOperator.Info = IPGOperator
+VhclOperator.IPGOperator.Tags =
+PTDriveLine.Gen4x2 = 1
+PTDriveLine.Gen4x2.Info = Gen4x2
+PTDriveLine.Gen4x2.Tags =
+AirBrakeSystem.Airbrake = 1
+AirBrakeSystem.Airbrake.Info = Airbrake
+AirBrakeSystem.Airbrake.Tags =
+PowerTrain. = 1
+PowerTrain..Info =
+PowerTrain..Tags =
+HydBrakeSystem.HydESP = 5
+HydBrakeSystem.HydESP.Info = HydESP
+HydBrakeSystem.HydESP.Tags =
+AirBrakeSystem.TrAirbrake = 1
+AirBrakeSystem.TrAirbrake.Info = TrAirbrake
+AirBrakeSystem.TrAirbrake.Tags =
